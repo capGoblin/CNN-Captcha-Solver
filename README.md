@@ -1,6 +1,6 @@
 # CNN Captcha Solver
 
-This repository contains a Convolutional Neural Network (CNN) model for solving Captcha images. The model is trained using a dataset obtained from Kaggle.
+This repository contains a Convolutional Neural Network (CNN) based captcha solver using OpenCV (cv2) library. The solver is trained to recognize and classify characters in captcha images. The model is trained using a dataset obtained from Kaggle.
 
 ## Dataset
 

@@ -30,7 +30,8 @@ Dense (1500 units)
 Dense (19 classes, softmax)
 Compiled with categorical cross-entropy loss and Adam optimizer.
 ```
-This architecture was found to be effective in solving the Captcha images and achieved good results(kinda).
+This architecture was found to be effective in solving the Captcha images and achieved good results(kinda).\
+Trained and saved as `captcha_model.h5`.
 
 ## Results
 After training the model on the dataset, the following results were obtained:
